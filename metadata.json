@@ -1,0 +1,6 @@
+{
+  "name": "English-Urdu AI Conversation Partner",
+  "description": "Real-time AI English conversational partner for fluency & pronunciation practice with instant Urdu translation and bilingual mentorship.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
